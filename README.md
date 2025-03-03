@@ -2,6 +2,8 @@
 
 MedAI Chatbot is a medical AI-powered chatbot that uses natural language processing (NLP) techniques to answer user queries based on information extracted from PDF documents. It utilizes FAISS for vector embeddings and Mistral-7B for question answering.
 
+![MedAI Chatbot Demo]('/Users/dharyavardhan/Desktop/Screenshots/Screenshot 2025-03-03 at 9.29.32 PM.png')
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
